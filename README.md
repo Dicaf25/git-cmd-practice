@@ -6,3 +6,5 @@
 - RESET
 - TAG 
 - REVERT 
+
+## MERGE 추가됨
